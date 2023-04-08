@@ -1,2 +1,2 @@
-First update
+run project 
 npm start
